@@ -1,21 +1,14 @@
-# Wood Auditorium
-Now referred to as "Gus' Gym"
-700 Miller, Mill Valley, CA 94941
+# Mill Valley Market
+Now referred to as "Branded Boutique"
+118-120 Throckmorton Ave., Mill Valley, CA 94941
 
-## Building History
-Tam High was opened in 1908, at the time only 64 students attended and they were tuaght by a grand total of three teachers.  Wood auditorium was built by students later in 1919 due to expanding need for athletic facilities.  It was later named after George Gustafason, who coached football, swimming, and tennis for 37 years at Tam.  In 1972 the famous film "American Graffiti' was filmed in the gym.  During the 1990's and 2000's there was a lot rennovations done to the gym.  The four towers were removed as well as a lot of the large windown on the sides.     
+# Building History
+This building was built in 1898, and opened as the Mill Valley Market on July 4, 1929. The owners Frank and Kathe Canepa lived in the upstairs apartment. Jim Canepa, their son later suggested moving the store to its current location on Corte Madera Avenue; Jim Canepa took over the store from his parents and has expanded it into two adjacent buildings.  The old market became the Mill Valley Laundromat, and then the Mill Valley Hat Store in 1994.  In 2015, Branded Boutique, which sells women's clothes, took the place of the hat store and has since remained there.  This building has not undergone any major renovations and has maintained its integrity for over a century.
 
-- Model Creators: Cole Ford and Marshall Sekula
-- Model completed: In a bit
-- Modeled in SketchUp 2017
+- Model Creator: Luke Chase
+- Model completed: April 19, 2018
+- Modeled in SketchUp Pro 2017
 
-![SketchUp model](doing it)
-![1920 Photo of Wood Auditorium](https://www.mvhistory.org/tamalpais-high-school)
-
-
-### Online references:
--[Tam High] https://www.tamdistrict.org/domain/409
--[The Tam News] http://thetamnews.org/lifestyles/tamalpais-high-school-an-architectural-history/
-## TimeWalk Images
-![TimeWalk Unity Model](tbd)
-
+# Online references:
+https://www.pinterest.com/pin/28217935142221786/ (Cocacola Advertisement Image)
+https://www.textures.com/download/woodplanksoverlapping0062/108801 (Wood Planking Texture)
