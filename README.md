@@ -9,6 +9,9 @@ This building was built in 1898, and opened as the Mill Valley Market on July 4,
 - Model completed: April 19, 2018
 - Modeled in SketchUp Pro 2017
 
+
+![Sketchup Model](https://github.com/TimeWalkOrg/building-mill-valley-ca-mill-valley-market/blob/master/IMG_3847.jpg)
+
 # Online references:
 https://www.pinterest.com/pin/28217935142221786/ (Cocacola Advertisement Image)
 https://www.textures.com/download/woodplanksoverlapping0062/108801 (Wood Planking Texture)
